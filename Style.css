@@ -1,0 +1,18 @@
+.stylescreen1{
+    color : white;
+    text-align : center;
+    opacity : 25%;
+    padding : 10px;
+}
+.stylescreen2{
+    color : white;
+    text-align : right;
+    opacity : 100%;
+    padding : 10px;
+}
+.stylescreen3{
+    color : white;
+    text-align : left;
+    opacity : 100%;
+    padding : 10px;
+}
